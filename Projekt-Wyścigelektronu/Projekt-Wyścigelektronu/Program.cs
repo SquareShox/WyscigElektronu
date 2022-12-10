@@ -17,6 +17,29 @@ namespace Projekt_Wyścigelektronu
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            // Application.Run(new Form2());
+
         }
+    }
+
+    class Menu
+    {
+
+
+    }
+
+    class Poziom
+    {
+        public Poziom()
+        {
+            int zycia = 3;
+        }
+
+        public void RozpoczecieGry()
+        {
+
+
+        }
+
     }
 }

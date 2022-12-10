@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\bin\Debug\Projekt-Wyścigelektronu.exe
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\bin\Debug\Projekt-Wyścigelektronu.exe.config
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt_Wyścigelektronu.Form1.resources
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt_Wyścigelektronu.Properties.Resources.resources
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.exe
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\obj\Debug\Projekt-Wyścigelektronu.pdb
+C:\Users\User\source\repos\Projekt-Wyścigelektronu\Projekt-Wyścigelektronu\bin\Debug\Projekt-Wyścigelektronu.pdb
