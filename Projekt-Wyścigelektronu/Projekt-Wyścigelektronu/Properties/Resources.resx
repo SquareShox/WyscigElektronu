@@ -118,7 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="elektron" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elektron.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kondensator" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kondensator.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="masa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\masa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panel_e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panel_e.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pngtree_blue_technology_digital_electronic_product_image_7451_e" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-blue-technology-digital-electronic-product-image_7451_e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rezytor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rezytor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_556717__nachtmahrtv__electricity_sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\556717__nachtmahrtv__electricity-sound.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="źródło" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\źródło.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

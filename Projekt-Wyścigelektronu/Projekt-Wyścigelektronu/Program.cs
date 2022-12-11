@@ -42,4 +42,10 @@ namespace Projekt_Wyścigelektronu
         }
 
     }
+
+    class Rezystor
+    {
+        
+
+    }
 }

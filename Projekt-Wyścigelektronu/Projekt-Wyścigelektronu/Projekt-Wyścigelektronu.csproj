@@ -92,5 +92,29 @@
   <ItemGroup>
     <None Include="Resources\pngtree-blue-technology-digital-electronic-product-image_7451_e.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\556717__nachtmahrtv__electricity-sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panel_e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elektron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezytor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kondensator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\źródło.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
