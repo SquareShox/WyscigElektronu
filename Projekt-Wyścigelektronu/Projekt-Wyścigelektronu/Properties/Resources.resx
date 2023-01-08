@@ -136,7 +136,7 @@
   <data name="rezytor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rezytor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_556717__nachtmahrtv__electricity_sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\556717__nachtmahrtv__electricity-sound.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="źródło" type="System.Resources.ResXFileRef, System.Windows.Forms">

@@ -52,12 +52,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -73,6 +67,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -91,9 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pngtree-blue-technology-digital-electronic-product-image_7451_e.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\556717__nachtmahrtv__electricity-sound.wav" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\panel.png" />
@@ -115,6 +107,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\źródło.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electricity-sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\556717__nachtmahrtv__electricity-sound.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

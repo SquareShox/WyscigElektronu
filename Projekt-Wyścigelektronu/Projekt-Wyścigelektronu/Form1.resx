@@ -117,4 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Gra polega na przetrasowaniu elektronu przez jak najmniejszą linię oporu w obwodzie elektrycznym. Po rozpoczęciu poziomu musimy kliknąc na źródło aby sterowac elektronem. Poziom kończymy przechiodząc przez wszystkie elementy i wracając do źródła</value>
+  </data>
+  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>
